@@ -1,0 +1,11 @@
+/java first app
+
+public class hello{
+  public hello(){}
+  public helloworld(){
+    system.out.println("Xin chao!");
+  }
+  static void main(String args[]){
+    helloworld();
+  }
+}
